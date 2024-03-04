@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sylesh513
-- 👀 I’m interested in ... automation with python
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Flutter Programming, Networking, Ethical Hacking
+- 🌱 I’m currently learning ... Web Dev
+- 💞️ I’m looking to collaborate on ... making useful open source apps
 - 📫 How to reach me ...sylesh513@gmail.com
 
 <!---
